@@ -76,3 +76,5 @@ This is a simple web application that allows users to upload files. It features 
 ├── assets/             # Icons and images
 └── uploads/            # Directory where uploaded files are stored (created automatically)
 ```
+---
+**Note:** This is an archived portfolio project from May 2021. It serves as a demonstration of early full-stack development skills using vanilla JavaScript and Node.js. For my most recent work with Angular 21 and Signals, please see the [Spotify Clone](https://github.com/wrincied/spotify-clone) repository.
